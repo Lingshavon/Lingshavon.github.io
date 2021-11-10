@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.61d0a6bd.chunk.css",
-    "main.js": "/static/js/main.34dcafa4.chunk.js",
-    "main.js.map": "/static/js/main.34dcafa4.chunk.js.map",
+    "main.js": "/static/js/main.569974b5.chunk.js",
+    "main.js.map": "/static/js/main.569974b5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41f25541.js",
     "runtime-main.js.map": "/static/js/runtime-main.41f25541.js.map",
     "static/css/2.6cd54866.chunk.css": "/static/css/2.6cd54866.chunk.css",
@@ -69,7 +69,7 @@
     "static/media/comba.jpg": "/static/media/comba.15ba1a52.jpg",
     "static/media/genericViewer.mov": "/static/media/genericViewer.bc2290c7.mov",
     "static/media/handheld.png": "/static/media/handheld.35d9d8b1.png",
-    "static/media/icon_sl.svg": "/static/media/icon_sl.9281fb98.svg",
+    "static/media/icon_sl.svg": "/static/media/icon_sl.4cbee502.svg",
     "static/media/menu.png": "/static/media/menu.6d716ae8.png",
     "static/media/menu_files.png": "/static/media/menu_files.9635a0ff.png",
     "static/media/menu_files_delete.png": "/static/media/menu_files_delete.7323768c.png",
@@ -107,6 +107,6 @@
     "static/css/2.6cd54866.chunk.css",
     "static/js/2.0780e381.chunk.js",
     "static/css/main.61d0a6bd.chunk.css",
-    "static/js/main.34dcafa4.chunk.js"
+    "static/js/main.569974b5.chunk.js"
   ]
 }
